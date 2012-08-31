@@ -1,1 +1,1 @@
-pokebot: bundle exec ruby poke_bot.rb
+pokebot: bundle exec ruby poke_bot_runner.rb
